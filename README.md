@@ -2,6 +2,9 @@
 
 [MUI: The React component library you always wanted](https://mui.com/)
 
+```shell
+npm install -g gatsby-cli
+```
 ## 
 
 <p align="center">
