@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Boostrap 5 Sass Starter`,
-    description: `A simple bootstrap 5 and Sass starter for Gatsby. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@r-ichard`,
+    title: `TikChocoOnline`,
+    description: `「TikChoco Online」は、異世界で自由に生活できるサンドボックスオンラインゲームです。`,
+    author: `@tikchoco`,
   },
   plugins: [
     `gatsby-plugin-image`,
