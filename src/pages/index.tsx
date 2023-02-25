@@ -1,6 +1,6 @@
 import * as React from "react"
-import { MDXProvider } from "@mdx-js/react"
-import type { HeadFC, PageProps } from "gatsby"
+import PropTypes from "prop-types"
+import { useStaticQuery, graphql } from "gatsby"
 
 import Intro from "../content/intro.mdx"
 import About from "../content/about.mdx"
