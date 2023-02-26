@@ -45,7 +45,7 @@ const IndexPage: React.FC<PageProps> = () => {
 
           <Header page={page} pageNum={pageNum} setPageNum={setPageNum} />
 
-          <Typography>
+          <Typography component={'div'}>
             {Object.values(page)[parseInt(pageNum) - 1]}
           </Typography>
 
