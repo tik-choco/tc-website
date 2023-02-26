@@ -20,7 +20,7 @@ const Header = (props: any) => {
                         <TabList onChange={handleChange} aria-label="lab API tabs example">
                             {
                                 Object.keys(props.page).map((value: string, index: number) => {
-                                    return <Tab label={value} value={(index+1).toString()} />
+                                    return <Tab label={value} value={(index+1).toString()} key={index} />
                                 })
                             }
                         </TabList>
