@@ -1,7 +1,7 @@
 <template>
   <div class="news-card" @click="openLink">
     <!-- <img :src="image" alt="news-image" /> -->
-    <img :src="image || '/images/s3.png'" />
+    <img :src="image || '/tc-website/images/s3.png'" />
     <div class="news-info">
       <h3>{{ title }}</h3>
       <p>{{ date }}</p>
