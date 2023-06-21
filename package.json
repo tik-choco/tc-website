@@ -1,6 +1,6 @@
 {
-    "name": "tc-website-v2",
-    "version": "1.0.0",
+    "name": "tc-website",
+    "version": "1.1.0",
     "description": "npm run dev",
     "main": "index.js",
     "directories": {
