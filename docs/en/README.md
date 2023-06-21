@@ -5,6 +5,9 @@ actions:
   - text: Detail
     link: /en/about/
     type: primary
+  - text: Join Discord
+    link: https://discord.gg/bkadn73aCJ
+    type: secondary
 footer: © 2023 TikChoco
 news:
   - date: 2023/5/24

@@ -5,6 +5,9 @@ actions:
   - text: 詳細
     link: /about/
     type: primary
+  - text: Discordに参加
+    link: https://discord.gg/bkadn73aCJ
+    type: secondary
 footer: © 2023 TikChoco
 news:
   - date: 2023/5/24
