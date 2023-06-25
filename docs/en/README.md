@@ -10,6 +10,10 @@ actions:
     type: secondary
 footer: © 2023 TikChoco
 news:
+  - date: 2023/6/24
+    title: Fifth TikChocoConnect Released
+    image: https://i.ytimg.com/vi/8vcET8Lra_w/hqdefault.jpg
+    url: https://youtu.be/8vcET8Lra_w
   - date: 2023/5/24
     title: Fourth TikChocoConnect Released
     image: https://i.ytimg.com/vi/NsW53WaJEF0/hqdefault.jpg
