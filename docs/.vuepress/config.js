@@ -24,7 +24,7 @@ export default defineUserConfig({
         },
         '/zh-TW/': {
             lang: 'zh-TW',
-            description: '讓我們生活在一個美麗的幻想世界！',
+            description: '讓我們在奇幻的異世界一起生活吧！',
         },
     },
     theme: defaultTheme({

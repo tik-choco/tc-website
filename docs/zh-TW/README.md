@@ -23,7 +23,7 @@ news:
     image: https://i.ytimg.com/vi/3tT6VyJ0taI/hqdefault.jpg
     url: https://youtu.be/3tT6VyJ0taI
   - date: 2023/4/15
-    title: 開発者募集中
+    title: 共同開發者募集中
     url: https://game-creators.camp/recruits/qYAy4wQmEzc6bymBdoeB
   - date: 2023/3/18
     title: 第2回 TikChoco Connect 公開
