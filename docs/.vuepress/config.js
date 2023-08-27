@@ -39,6 +39,10 @@ export default defineUserConfig({
                         text: 'About',
                         link: '/about/',
                     },
+                    {
+                        text: 'Guides',
+                        link: '/guides/',
+                    },
                 ],
             },
             '/en/': {
