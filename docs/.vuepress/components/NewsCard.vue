@@ -1,5 +1,5 @@
 <template>
-  <div class="news-card" @click="openLink">
+  <div class="news-card dark-shadow" @click="openLink">
     <!-- <img :src="image" alt="news-image" /> -->
     <img :src="image || '/tc-website/images/s3.png'" />
     <div class="news-info">
@@ -61,6 +61,10 @@ export default {
   object-position: center;
   border-radius: 10px 10px 0 0;
   pointer-events: none;
+}
+
+.dark .news-list .dark-shadow{
+  box-shadow: 0 4px 20px rgba(255, 255, 255, 0.15) !important;
 }
 
 .news-info {
