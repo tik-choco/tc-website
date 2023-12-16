@@ -1,5 +1,5 @@
 <template>
-  <div class="news-card" @click="openLink">
+  <div class="news-card dark-news-card" @click="openLink">
     <!-- <img :src="image" alt="news-image" /> -->
     <img :src="image || '/tc-website/images/s3.png'" />
     <div class="news-info">
@@ -31,11 +31,11 @@ export default {
   },
   methods: {
     openLink() {
-      if(this.url){
+      if (this.url) {
         window.open(this.url, "_blank");
       }
     }
-  }
+  },
 }
 </script>
 
@@ -50,6 +50,10 @@ export default {
   padding: 0px;
   cursor: pointer;
   height: 320px;
+}
+
+.dark .dark-news-card {
+  box-shadow: 0 4px 20px rgba(255, 255, 255, 0.15);
 }
 
 .news-card img {
