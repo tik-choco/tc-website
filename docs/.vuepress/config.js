@@ -12,11 +12,11 @@ export default defineUserConfig({
         }),
     ],
     lang: 'ja',
-    title: 'TikChoco Online',
+    title: '零界オンライン Rinkai Online',
     locales: {
         '/': {
             lang: 'ja',
-            description: '異世界で生活しよう',
+            description: 'ただそこに異世界がある',
         },
         '/en/': {
             lang: 'en',
@@ -39,6 +39,10 @@ export default defineUserConfig({
                         text: 'About',
                         link: '/about/',
                     },
+                    {
+                        text: '規約',
+                        link: '/terms_and_privacy/',
+                    }                    
                 ],
             },
             '/en/': {
@@ -51,6 +55,10 @@ export default defineUserConfig({
                         text: 'About',
                         link: '/en/about/',
                     },
+                    {
+                        text: 'Terms & Privacy',
+                        link: '/en/terms_and_privacy/',
+                    }
                 ],
             },
             '/zh-TW/': {
@@ -63,6 +71,10 @@ export default defineUserConfig({
                         text: 'About',
                         link: '/zh-TW/about/',
                     },
+                    {
+                        text: '規約',
+                        link: '/zh-TW/terms_and_privacy/',
+                    }
                 ],
             },
         },

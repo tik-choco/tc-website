@@ -5,10 +5,11 @@ actions:
   - text: 詳細
     link: /about/
     type: primary
-  - text: Discordに参加
+  - text: ゲームをプレイする
     link: https://discord.gg/bkadn73aCJ
     type: secondary
-footer: © 2023 TikChoco
+  
+footer: © 2019-2025 TikChoco
 news:
   - date: 2023/6/24
     title: 第5回 TikChoco Connect 公開
@@ -35,6 +36,7 @@ news:
     url: https://youtu.be/kJFBjG2eSuk
   - date: 2023/2/4
     title: ホームページ公開
+
 ---
 
 <News />
