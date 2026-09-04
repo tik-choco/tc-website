@@ -1,0 +1,1 @@
+import{_ as n,r as o,o as t,c,a as s}from"./app-956189ab.js";const r={};function _(a,l){const e=o("News");return t(),c("div",null,[s(e)])}const d=n(r,[["render",_],["__file","index.html.vue"]]);export{d as default};
