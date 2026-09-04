@@ -2,7 +2,7 @@
 
 # Let's live in another world
 
-## TikChoco Online
+## Linkai Online
 
 You can upload your own avatar and live in a fantasy world.
 

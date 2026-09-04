@@ -2,7 +2,7 @@
 
 # 在異世界生活
 
-## TikChoco Online
+## Linkai Online
 
 上傳自己的虛擬形象，就可以在這奇幻的異世界中生活。
 

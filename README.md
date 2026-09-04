@@ -1,4 +1,4 @@
-# TikChoco Online
+# Linkai Online
 
 ```
 npm run docs:dev

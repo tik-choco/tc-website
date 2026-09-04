@@ -12,7 +12,7 @@ export default defineUserConfig({
         }),
     ],
     lang: 'ja',
-    title: '零界オンライン Rinkai Online',
+    title: '零界オンライン Linkai Online',
     locales: {
         '/': {
             lang: 'ja',
